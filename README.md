@@ -1,16 +1,19 @@
-# layout_flutter
+Nama    : Ahmed Fathir Syafaat
 
-A new Flutter project.
+Kelas   : TI - 3H
 
-## Getting Started
+NIM     : 2241720083
 
-This project is a starting point for a Flutter application.
+## #06 | Layout dan Navigasi
 
-A few resources to get you started if this is your first Flutter project:
+### Praktikum 1: Membangun Layout di Flutter
+![alt text](assets/img/praktikum1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Praktikum 2: Implementasi button row
+![alt text](assets/img/praktikum2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Praktikum 3: Implementasi text section
+![alt text](assets/img/praktikum3.png)
+
+### Praktikum 4: Implementasi image section
+![alt text](assets/img/praktikum4.png)
